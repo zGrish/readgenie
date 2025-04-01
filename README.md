@@ -5,12 +5,12 @@ A simple, user-friendly book recommendation app built with **Next.js** and **Rea
 ⚠️ Note: This project is still in progress and not yet complete. Features are being actively developed and improved.
 
 ## Features
-📚 Browse and search books by title
-📖 View book details (cover image, author, release year, etc.)
-❤️ Mark books as favorites and save them to your personal list
-🔍 Filter books by genre, year, and rating
-📱 Fully responsive design
-🔗 Dynamic routing for book detail pages
+- 📚 Browse and search books by title
+- 📖 View book details (cover image, author, release year, etc.)
+- ❤️ Mark books as favorites and save them to your personal list
+- 🔍 Filter books by genre, year, and rating
+- 📱 Fully responsive design
+- 🔗 Dynamic routing for book detail pages
 
 ## Tech Stack
 - **Frontend**: React, Next.js
