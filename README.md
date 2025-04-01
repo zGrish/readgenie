@@ -2,13 +2,15 @@
 
 A simple, user-friendly book recommendation app built with **Next.js** and **React**. Browse, search, and save your favorite books using the Open Library API. Discover your next read with personalized recommendations and a responsive design.
 
+⚠️ Note: This project is still in progress and not yet complete. Features are being actively developed and improved.
+
 ## Features
-- Browse and search books by title
-- View book details (cover image, author, release year, etc.)
-- Mark books as favorites and save them to your personal list
-- Responsive design for mobile, tablet, and desktop views
-- Dynamic routing for book detail pages
-- Filter books by genre, year, and rating
+📚 Browse and search books by title
+📖 View book details (cover image, author, release year, etc.)
+❤️ Mark books as favorites and save them to your personal list
+🔍 Filter books by genre, year, and rating
+📱 Fully responsive design
+🔗 Dynamic routing for book detail pages
 
 ## Tech Stack
 - **Frontend**: React, Next.js
