@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# **ReadGenie | Discover Your Next Book**
 
-## Getting Started
+A simple, user-friendly book recommendation app built with **Next.js** and **React**. Browse, search, and save your favorite books using the Open Library API. Discover your next read with personalized recommendations and a responsive design.
 
-First, run the development server:
+## Features
+- Browse and search books by title
+- View book details (cover image, author, release year, etc.)
+- Mark books as favorites and save them to your personal list
+- Responsive design for mobile, tablet, and desktop views
+- Dynamic routing for book detail pages
+- Filter books by genre, year, and rating
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Tech Stack
+- **Frontend**: React, Next.js
+- **API**: Open Library API
+- **State Management**: React Hooks (`useState`)
+- **Styling**: CSS Modules
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Installation
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/zGrish/readgenie.git
+   cd readgenie
+   ```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-## Learn More
+3. Run the app locally:
+   ```bash
+   npm run dev
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Deployment
+Deployed on [Vercel](https://vercel.com). Visit the live app:  
+[https://readgenie.vercel.app](https://readgenie.vercel.app)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Contributing
+Feel free to open issues or submit pull requests for improvements.
