@@ -40,7 +40,7 @@ A simple, user-friendly book recommendation app built with **Next.js** and **Rea
 
 ## Deployment
 Deployed on [Vercel](https://vercel.com). Visit the live app:  
-[https://readgenie.vercel.app](https://readgenie.vercel.app)
+[https://-.vercel.app](////)
 
 ## Contributing
 Feel free to open issues or submit pull requests for improvements.
